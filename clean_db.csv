@@ -1,0 +1,106 @@
+Disease,Symptom_1,Symptom_2,Symptom_3
+(Vertigo) Paroymsal  Positional Vertigo,vomiting,headache,nausea
+Acne,skin_rash,pus_filled_pimples,blackheads
+Aids,muscle_wasting,patches_in_throat,high_fever
+Alcoholic Hepatitis,vomiting,yellowish_skin,abdominal_pain
+Allergy,continuous_sneezing,shivering,chills
+Arthritis,muscle_weakness,stiff_neck,swelling_joints
+Asthma,cough,breathlessness,fast_heart_rate
+Atrial Fibrillation,chest_pain,dizziness,fatigue
+Blastomycosis,high_fever,cough,sweating
+Bronchial Asthma,fatigue,cough,high_fever
+Bronchiolitis,breathlessness,dehydration,loss_of_appetite
+Bulimia Nervosa,fatigue,weight_loss,constipation
+Candidiasis,headache,chest_pain,dizziness
+Cervical Spondylosis,back_pain,weakness_in_limbs,neck_pain
+Chicken Pox,itching,skin_rash,fatigue
+Chlamydia,pain_during_bowel_movements,abnormal_vaginal_discharge,spotting_urination
+Cholera,vomiting,sunken_eyes,dehydration
+Chronic Cholestasis,itching,vomiting,yellowish_skin
+Common Cold,continuous_sneezing,chills,fatigue
+Covid,high_fever,cough,sore_throat
+Dengue,skin_rash,chills,joint_pain
+Diabetes,fatigue,weight_loss,restlessness
+Dimorphic Hemmorhoids(Piles),constipation,pain_during_bowel_movements,pain_in_anal_region
+Diphtheria,swelled_lymph_nodes,chills,fatigue
+Drug Reaction,itching,skin_rash,stomach_pain
+Ebola,abdominal_pain,chills,diarrhoea
+Epilepsy,fatigue,headache,anxiety
+Fasciitis,fatigue,weight_loss,restlessness
+Fasciolopsis,abdominal_pain,diarrhoea,vomiting
+Folliculitis,itching,vomiting,yellowish_skin
+Food Poisoning,nausea,vomiting,stomach_pain
+Fungal Infection,itching,skin_rash,nodal_skin_eruptions
+Fungal Meningitis,fatigue,cough,high_fever
+Gastroenteritis,vomiting,sunken_eyes,dehydration
+Gerd,stomach_pain,acidity,ulcers_on_tongue
+Giardiasis,abdominal_pain,diarrhoea,nausea
+Glanders,chills,sweating,chest_pain
+Gnathostomiasis,diarrhoea,nausea,vomiting
+Gonorrhea,abdominal_pain,abnormal_vaginal_discharge,high_fever
+Gout,joint_pain,red_spots_over_body,swelling_joints
+Heart Attack,vomiting,breathlessness,sweating
+Hepatitis A,joint_pain,vomiting,yellowish_skin
+Hepatitis B,itching,fatigue,lethargy
+Hepatitis C,fatigue,yellowish_skin,nausea
+Hepatitis D,joint_pain,vomiting,fatigue
+Hepatitis E,joint_pain,vomiting,fatigue
+Herpes,pelvic_pain,skin_rash,high_fever
+Hypertension,headache,chest_pain,dizziness
+Hyperthyroidism,fatigue,mood_swings,weight_loss
+Hypoglycemia,vomiting,fatigue,anxiety
+Hypothyroidism,fatigue,weight_gain,cold_hands_and_feets
+Impetigo,skin_rash,high_fever,blister
+Inflammatory Bowel Disease (Ibd),acidity,indigestion,headache
+Influenza,cough,dehydration,fatigue
+Jaundice,itching,vomiting,fatigue
+Kawasaki Syndrome ,chills,vomiting,high_fever
+Keratitis,back_pain,weakness_in_limbs,neck_pain
+Kernicterus,vomiting,headache,weakness_of_one_body_side
+Kidney Disease,itching,vomiting,fatigue
+Lead Poisoning,itching,skin_rash,fatigue
+Lymphoma,itching,skin_rash,nodal_skin_eruptions
+Malaria,chills,vomiting,high_fever
+Measles,muscle_weakness,high_fever,fatigue
+Meningitis,back_pain,high_fever,restlessness
+Microsporidia,skin_rash,chills,joint_pain
+Migraine,acidity,indigestion,headache
+Molluscum,chills,vomiting,fatigue
+Monkeypox,fatigue,weight_loss,constipation
+Mumps,cough,breathlessness,fast_heart_rate
+Myiasis,fatigue,headache,anxiety
+Nocardiosis,cough,dehydration,fatigue
+Norovirus Infection,abdominal_pain,diarrhoea,nausea
+Onchocerciasis,back_pain,high_fever,restlessness
+Osteoarthristis,joint_pain,neck_pain,knee_pain
+Parainfluenza,chest_pain,dizziness,fatigue
+Paralysis (Brain Hemorrhage),vomiting,headache,weakness_of_one_body_side
+Peptic Ulcer Diseae,vomiting,loss_of_appetite,abdominal_pain
+Pinworm Infection,muscle_weakness,high_fever,fatigue
+Pneumococcal,itching,skin_rash,nodal_skin_eruptions
+Pneumonia,chills,fatigue,cough
+Polio,high_fever,fatigue,muscle_weakness
+Pontiac Fever,stomach_pain,acidity,ulcers_on_tongue
+Poxvirus,continuous_sneezing,shivering,chills
+Psoriasis,skin_rash,joint_pain,skin_peeling
+Rabies,muscle_pain,dizziness,fatigue
+Rickettsial,itching,vomiting,yellowish_skin
+River Blindness,itching,skin_rash,stomach_pain
+Rotavirus,vomiting,loss_of_appetite,abdominal_pain
+Sleep Apnea,depression,drying_and_tingling_lips,fatigue
+Streptococcal Pharyngitis,sore_throat,nausea,vomiting
+Swine Flu,muscle_pain,fatigue,chills
+Tape Worm,itching,skin_rash,stomach_pain
+Tetanus,vomiting,loss_of_appetite,abdominal_pain
+Tourette Syndrome,muscle_wasting,patches_in_throat,high_fever
+Trichuriasis,fatigue,weight_loss,restlessness
+Tuberculosis,chills,vomiting,fatigue
+Typhoid,chills,vomiting,fatigue
+Urinary Tract Infection,burning_micturition,bladder_discomfort,foul_smell_of urine
+Varicose Veins,fatigue,cramps,bruising
+Von Willebrand Disease,vomiting,sunken_eyes,dehydration
+Yeast Infection,fatigue,cough,high_fever
+Yellow Fever,muscle_wasting,patches_in_throat,high_fever
+Yersinia Pestis,headache,chest_pain,dizziness
+Yersiniosis ,acidity,indigestion,headache
+Zoonotic Hookworm,back_pain,weakness_in_limbs,neck_pain
